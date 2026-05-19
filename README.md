@@ -14,5 +14,13 @@ This project analyzes Netflix TV Shows dataset using Python and Google Colab.
 - Exploratory Data Analysis
 - Data Visualization
 
+  ## 📊 Visualizations
+
+### TAudience Rating Categories
+![Audience Rating Categories](Audience_Rating_Categories.png)
+
+### Rating Distribution
+![Rating Distribution](ratings_distribution.png)
+
 ## Author
 Chetna Pal
