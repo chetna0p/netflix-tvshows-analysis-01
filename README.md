@@ -17,7 +17,7 @@ This project analyzes Netflix TV Shows dataset using Python and Google Colab.
   ## 📊 Visualizations
 
 ### TAudience Rating Categories
-![Audience Rating Categories](Audience Rating Categories.png)
+![Audience Rating Categories](Audience_Rating_Categories.png)
 
 ### Rating Distribution
 ![Rating Distribution](ratings_distribution.png)
